@@ -1,0 +1,18 @@
+form{
+    margin-top: 35%;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.573);
+    border-radius: 30px;
+}
+
+.btn{
+    margin-top: 5%;
+
+}
+
+.responsive-img{
+
+    height: 900px;
+    margin-top: 40%;
+    zoom: 300%;
+}
